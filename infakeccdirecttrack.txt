@@ -1,0 +1,5 @@
+这个文件是为了测试
+
+git checkout --track  origin/dev
+命令能不能直接跟踪远端分支
+
