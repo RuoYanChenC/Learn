@@ -1,0 +1,12 @@
+在假的ccb分支里面上传文件， 
+
+这个是为了测试，使用  
+
+
+git check out -b  branchname origin/branchname
+
+之后，在本地fakeccb分支里面能不能直接用  git push origin命令
+
+往对应的分支里面添加数据
+
+
